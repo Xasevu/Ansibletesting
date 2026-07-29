@@ -1,2 +1,2 @@
-10.150.108.202
-10.150.108.203
+10.150.108.202 ansible_user=markus
+10.150.108.203 ansible_user=markus
